@@ -3,7 +3,7 @@
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Bjersgen&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bjersgen&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Bjersgen&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **chenzhike110/chenzhike110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
